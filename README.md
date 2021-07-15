@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/karan-vaishnav/Room-HomePage
 - Live Site URL: http://127.0.0.1:5501/
 
 ## My Process
