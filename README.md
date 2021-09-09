@@ -5,7 +5,7 @@
 ### Links
 
 - Solution URL: https://github.com/karan-vaishnav/Room-HomePage
-- Live Site URL: http://127.0.0.1:5501/
+- Live Site URL: https://roomhomepg.netlify.app
 
 ## My Process
 
